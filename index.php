@@ -10,6 +10,7 @@
 </head>
 <body>
     <h1>si direciona con php</h1>
+    <a href="#">si o no </a>
     
 </body>
 </html>
